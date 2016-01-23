@@ -23,4 +23,6 @@ defmodule HelloWorldPhoenix.Router do
   # scope "/api", HelloWorldPhoenix do
   #   pipe_through :api
   # end
+
+  resources "/blogs", BlogController
 end

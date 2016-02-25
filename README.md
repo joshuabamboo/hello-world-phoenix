@@ -1,4 +1,5 @@
 # HelloWorldPhoenix
+A scaffolded blog built using Elixir and Phoenix to learn more about both the language and the framework.
 
 To start your Phoenix app:
 
